@@ -1,4 +1,8 @@
 # StudyNotes
+### Richie Pranata
+### 312410451
+### TI.24.A.5
+
 # Laporan Aplikasi Study Notes
 
 ## 1. Pendahuluan
